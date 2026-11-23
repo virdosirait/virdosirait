@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./images/title.png" width="45%" />
+        <img src="./images/title.png" width="58%" />
       </td>
     </tr>
   </table>
@@ -16,7 +16,7 @@
 
   <table>
   <p>
-    <img src="./images/dialoguebox.png" width="80%" />
+    <img src="./images/dialoguebox.png" width="55%" />
   </table>
 
   <br>
