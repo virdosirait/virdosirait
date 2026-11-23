@@ -7,7 +7,11 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./images/title.png" width="58%" />
+        <img src="./images/p3rtitle.png" width="30%" />
+        &nbsp;
+        <img src="./images/p4gtitle.png" width="30%" />
+        &nbsp;
+        <img src="./images/title.png" width="30%" />
       </td>
     </tr>
   </table>
