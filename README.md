@@ -1,13 +1,13 @@
 <div align="center">
   
-  <p><i>"Stories are what shapes us."</i></p>
+  <p><b><i>"Stories are what shapes us."</i></b></p>
 
   <br>
 
   <table>
     <tr>
       <td align="center">
-        <img src="./images/main.jpg" width="70%" />
+        <img src="./images/title.png" width="45%" />
       </td>
     </tr>
   </table>
