@@ -7,11 +7,11 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./images/p3rtitle.png" width="30%" />
+        <img src="./images/p3rtitle.png" width="26%" />
         &nbsp;
-        <img src="./images/p4gtitle.png" width="30%" />
+        <img src="./images/p4gtitle.png" width="26%" />
         &nbsp;
-        <img src="./images/title.png" width="30%" />
+        <img src="./images/title.png" width="26%" />
       </td>
     </tr>
   </table>
@@ -20,7 +20,7 @@
 
   <table>
   <p>
-    <img src="./images/dialoguebox.png" width="55%" />
+    <img src="./images/dialoguebox.png" width="70%" />
   </table>
 
   <br>
